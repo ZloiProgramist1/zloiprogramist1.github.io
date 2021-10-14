@@ -1,0 +1,12 @@
+User-agent:yandex
+Disallow: /admin
+Dissallow: *&page=
+Sitemap: https://zloiprogramist1.github.io/sitemap.xml
+User-agent:goglebot
+Disallow: /admin
+Dissallow: *&page=
+Sitemap: https://zloiprogramist1.github.io/sitemap.xml
+User-agent:*
+Disallow: /admin
+Dissallow: *&page=
+Sitemap: https://zloiprogramist1.github.io/sitemap.xml
