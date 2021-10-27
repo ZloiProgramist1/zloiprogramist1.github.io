@@ -1,5 +1,6 @@
 body{
 	background: pink;
+	backdrop-filter: blur(5px);
 	color: #000000;
 	font-family: trebuchet Ms,arial, times new roman;
 	font-size: 12px;
