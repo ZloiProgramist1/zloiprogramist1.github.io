@@ -40,7 +40,15 @@ body{
 	height: 621px;
 	justify-content: center;   
 }
+#how {text-align: justify;
+background: #ffd8df;
+	width: 900px;
+	height: 886px;
+	justify-content: center;
 
+    box-shadow: 0 0 10px rgb(219 161 171); /* Параметры тени */
+    padding: 10px
+    }
 .footer_wrap {
 background: #dba1ab;
 padding-top:22px;
@@ -83,7 +91,7 @@ border-top:1px solid #dedede;
 .text1 { word-wrap: break-word;text-align: center;}
 .er404 {font-size: 1000%; text-align: left;margin: 5PX;font-family: Andale Mono;  }
 .er4042 {font-size: 450%; text-align: left;margin: 5PX;font-family: 'IBM Plex Mono'; }
-
+.texhow {font-size: 20px; font-family: ;}
 
 
 
