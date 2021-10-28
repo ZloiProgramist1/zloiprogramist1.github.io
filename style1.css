@@ -38,13 +38,9 @@ body{
 #er404 {	background: pink;
 	width: 900px;
 	height: 621px;
-	justify-content: center;
-
- 
-    
+	justify-content: center;   
 }
 
-}
 .footer_wrap {
 background: #dba1ab;
 padding-top:22px;
