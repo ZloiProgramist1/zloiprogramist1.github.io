@@ -104,14 +104,16 @@ img {max-width: 425px; height:300px ;
 	
 }
 
-.home{
-    
+
+.home{   
     text-align: center;
     display: flex;
 	flex-direction: row;
     justify-content: space-around;
 }
-
+.img{
+	max-width: 435px;
+}
 .texth1{
 	margin: 0;
 	flex-direction: row;
